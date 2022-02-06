@@ -1,4 +1,4 @@
-# ds_salary_proj
+# data science salary proj
 
 
 repo for the data science salary prediction!
