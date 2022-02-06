@@ -1,2 +1,4 @@
-# ds_salary_proj
-repo for the data science salary prediction
+# ds_project
+
+
+repo for the data science salary prediction!
